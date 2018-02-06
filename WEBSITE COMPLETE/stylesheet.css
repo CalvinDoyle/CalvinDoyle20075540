@@ -1,0 +1,31 @@
+nav {background-color: #A4C639} /*used this colour as the background colour conflicted with the blue colour of the link*/
+
+body { background-image: "androidbackground.jpg";
+text-align: center;
+  background-color:;
+       color:#000000;
+       font-family:Arial, Verdana, sans-serif;
+}
+header { background-color:;   
+       color:#A4C639;
+       font-family:Georgia, "Times New Roman", serif;
+	   text-indent: 1em;
+}
+nav { word-spacing: 1em;
+text-align: center;}
+h2 { background-color:;
+     color:#000000;
+     font-family:Georgia, "Times New Roman", serif;
+	 text-align: center; 
+}
+h3 {color:#A4C639;}/*used the android green color throughout to keep up with the android theme of white and green, didn't want to use many background images since none that i found looked good and didnt fill the screen properly, instead the same image was duplicated however many times necessary to fill the screen*/ 
+p { font-size:.90em;
+    text-indent: 3em; 
+}
+ul {color:#000000;
+
+}
+footer { font-style: italic;
+         font-size: .75em;
+         color:#FFFFFF; 
+}
